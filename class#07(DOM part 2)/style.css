@@ -1,0 +1,21 @@
+/* div{
+    height:500px;
+    width: 500px;
+    background-color: skyblue;
+    color:white;
+    border: 1px solid brown;
+    font-size: 80px;
+} */
+h1,h2,h3,h4,h5,h6,p{
+    margin: 0px;
+    padding: 0px;
+    line-height: 50px;
+}
+.myName{
+    font-size: 20px;
+    color:white;
+}
+
+.newClass{
+    background-color:deeppink;
+}

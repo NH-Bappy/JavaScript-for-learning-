@@ -1,0 +1,26 @@
+/* *{
+    margin:0;
+    padding:0;
+    line-height: 0.8;
+}
+h1{
+    color:wheat;
+    line-height: 100px;
+    background: red;
+}
+h2{
+    background: violet;
+    line-height: 50px;
+    color:brown
+}
+h3{
+    background-color: cornflowerblue;
+    line-height: 50px;
+    color: burlywood;
+}
+button{
+    padding: 10px 20px;
+    background-color: crimson;
+    font-size: 40px;
+    color: white;
+} */
